@@ -22,6 +22,7 @@ Overview
 - The code follows the MVC design pattern.
 
  ## Algorithmic Approach
+- Algorithmic approached used to increase the efficiency of the code.
 
 ## Installation
 
